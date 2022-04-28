@@ -1,5 +1,8 @@
 # FOFA 图形化采集工具
 
+![FOFA_GUI](https://socialify.git.ci/bewhale/FOFA_GUI/image?description=1&font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Solid&stargazers=1&theme=Light)
+
+
 项目修改自[fofa_viewer](https://github.com/wgpsec/fofa_viewer)
 
 
